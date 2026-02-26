@@ -12,6 +12,10 @@ yarn dev
 pnpm dev
 # or
 bun dev
+```markdown
+## Documentation
+
+- 📄 [Project documentation (Google Drive)](https://drive.google.com/file/d/1EX-eHkJr6lcqkhElN8hc_HcdHQajXg8_/view?usp=drivesdk)
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
