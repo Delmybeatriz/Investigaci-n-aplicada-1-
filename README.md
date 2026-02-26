@@ -1,5 +1,5 @@
 # 📦 Nombre de tu Proyecto
-✏️ Cambia este titulo por el nombre real de tu desarrollo
+✏️ CHAT BOOT
 
 Este es un proyecto desarrollado con [Next.js](https://nextjs.org), creado usando la plantilla oficial [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
