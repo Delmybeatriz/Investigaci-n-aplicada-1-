@@ -1,22 +1,19 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Nombre de tu Proyecto
+*(cambia este texto por el nombre real de tu desarrollo)*
 
-## Getting Started
+Este es un proyecto desarrollado con [Next.js](https://nextjs.org), creado usando la plantilla oficial [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-First, run the development server:
+## 🚀 Iniciar servidor de desarrollo
+Primero ejecuta el siguiente comando:
 
 ```bash
 npm run dev
-# or
+# o
 yarn dev
-# or
+# o
 pnpm dev
-# or
+# o
 bun dev
-```markdown
-## Documentation
-
-- 📄 [Project documentation (Google Drive)](https://drive.google.com/file/d/1EX-eHkJr6lcqkhElN8hc_HcdHQajXg8_/view?usp=drivesdk)
-```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
